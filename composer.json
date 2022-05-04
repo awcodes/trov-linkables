@@ -20,10 +20,10 @@
     ],
     "require": {
         "php": "^8.0.2",
+        "awcodes/trov": "^0.2.6",
+        "awcodes/trov-components": "^0.1.4",
         "filament/filament": "^2.0",
-        "spatie/laravel-package-tools": "^1.9.2",
-        "awcodes/trov": "dev-main",
-        "awcodes/trov-components": "dev-main"
+        "spatie/laravel-package-tools": "^1.9.2"
     },
     "autoload": {
         "psr-4": {
