@@ -21,7 +21,7 @@
     "require": {
         "php": "^8.0.2",
         "awcodes/trov": "^0.2.12",
-        "awcodes/trov-components": "^0.2.0",
+        "awcodes/trov-components": "^0.3.0",
         "filament/filament": "^2.0",
         "spatie/laravel-package-tools": "^1.9.2"
     },
